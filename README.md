@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed Amr Abdellatif</h1>
 <h3 align="center">Passionate About FPGA and ASIC Design & Digital Verification</h3>
 
+https://media1.giphy.com/media/IcZhFmufozDCij3p22/200w.gif?cid=6c09b952o2aq2eiuzyo8120a0svxit4zttkdqcqxv1dc7s4u&ep=v1_gifs_search&rid=200w.gif&ct=g
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedamrabdellatif1&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedamrabdellatif1" /> </p>
 
 - 🔭 I’m currently working on **Design of RISC-V Processor**
