@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ahmed Amr Abdellatif</h1>
 <h3 align="center">Passionate About FPGA and ASIC Design & Digital Verification</h3>
 
-https://media1.giphy.com/media/IcZhFmufozDCij3p22/200w.gif?cid=6c09b952o2aq2eiuzyo8120a0svxit4zttkdqcqxv1dc7s4u&ep=v1_gifs_search&rid=200w.gif&ct=g
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGF3cTdpd290aTYzMjdjOXhyanl0NDMzeHZyYW80cnFqbTh6ZGxuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IcZhFmufozDCij3p22/giphy.gif" alt="Processor">
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedamrabdellatif1&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedamrabdellatif1" /> </p>
 
