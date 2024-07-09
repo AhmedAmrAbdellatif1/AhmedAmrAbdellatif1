@@ -7,15 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedamrabdellatif1&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedamrabdellatif1" /> </p>
 
-- 🔭 I’m currently working on **Design of RISC-V Processor**
-
-- 🌱 I’m currently learning **SystemVerilog and UVM**
-
 - 💬 Ask me about **Digital Design and Verification**
 
 - 📫 How to reach me **ahmedamrabdellatif@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VfSA_9R-2_4mcv01tHhTKYNOQpHs46XZ/view?usp=sharing](https://drive.google.com/file/d/1VfSA_9R-2_4mcv01tHhTKYNOQpHs46XZ/view?usp=sharing)
+- 📄 Know about my experiences from [my CV](https://drive.google.com/file/d/1NEmb0iphwboQpqD3hd-C5nfE5Gq5xdj2/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
