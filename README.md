@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ahmedamrabdellatif@gmail.com**
 
-- 📄 Know about my experiences from [my CV](https://drive.google.com/file/d/1NEmb0iphwboQpqD3hd-C5nfE5Gq5xdj2/view?usp=drive_link)
+- 📄 Know about my experiences from [my CV](https://drive.google.com/file/d/19pYHIXRCmuEyYlbaOy2-X1H8TaA3pnYJ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
